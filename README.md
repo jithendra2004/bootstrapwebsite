@@ -168,9 +168,12 @@ CONTACT US
 ~~~
 
 ## OUTPUT:
+![output](./111.PNG)
+![output](./222.PNG)
+![output](./333.PNG)
 
-### Home Page:
 
 
 ## Result:
+website is created successfully
 
